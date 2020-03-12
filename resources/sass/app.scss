@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+$body-bg: #000;
+$body-color: #fff;
+
+$theme-colors: (
+        "primary": #0074d9,
+        "danger": #ff4136,
+        "pink": #996796,
+        "success": #16990e
+
+);
+
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~@fortawesome/fontawesome-free/css/fontawesome.css';
+@import '~@fortawesome/fontawesome-free/css/regular.css';
+@import '~@fortawesome/fontawesome-free/css/solid.css';
+
